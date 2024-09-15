@@ -1,0 +1,15 @@
+              Header          
+logo
+Rahul
+
+Home -- work -- my info -- services -- contact me
+
+          home      
+Rahul next line kumar
+
+home profession
+web developer| game developer
+
+recent work
+
+            work
